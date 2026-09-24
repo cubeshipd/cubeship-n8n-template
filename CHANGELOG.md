@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cubeshipd/cubeship-n8n-template/compare/v1.0.4...v1.1.0) (2026-09-24)
+
+
+### Features
+
+* update n8nio/n8n docker tag to v2.41.1 ([#10](https://github.com/cubeshipd/cubeship-n8n-template/issues/10)) ([629d9f3](https://github.com/cubeshipd/cubeship-n8n-template/commit/629d9f340c8ca5dbc7eb7610687b97110fbffc91))
+
 ## [1.0.4](https://github.com/cubeshipd/cubeship-n8n-template/compare/v1.0.3...v1.0.4) (2026-09-21)
 
 
